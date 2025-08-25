@@ -1,5 +1,6 @@
 NovaMed--Sales-Analysis
 Sales performance analysis of a pharmaceutical distributor using Power BI to uncover product trends, customer segmentation, and revenue growth opportunities.
+
 📖 Project Overview
 NovaMed Solutions, a pharmaceutical distributor, was struggling with sales performance optimisation, inventory management, and identifying key market opportunities. This project used simulated sales data to deliver insights into drug performance, customer demographics, and market trends.
 
